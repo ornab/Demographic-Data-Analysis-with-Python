@@ -38,3 +38,19 @@ and 2022. The six countries that are mentioned are not used in the comparison be
 the variable values of 2002 and 2022 in task four. Overall, the data quality is better for
 analysis in 2022 as only 4 categorical missing values are there compared to 40 missing
 values in 2002.
+
+## Project Objectives
+
+In this project, I completed four different tasks by gaining a deeper understanding of the
+patterns and connections within the demographic data through statistical techniques.
+In task 1, histograms and Maps are used to illustrate the frequency distribution of the values of
+each continuous variable. I analysed and compared the life expectancy at birth and
+under age 5 mortality rates between males and females, as well as between regions
+through boxplots. In task 2, Africa region is used to analyse and determine the 
+homogeneity within its subregions for males, females and both sexes, as well as the
+heterogeneity between different subregions. Boxplots, measures of spread, and
+measures of central tendency are used to complete this task. In task 3, I tried to determine the
+bivariate correlation between variables using Pearson correlation coefficients and scatter
+plots. The first three tasks consider only the data for 2022. In the final task,
+life expectancy at birth and under age 5 mortality rates for males and females, and both
+sexes are compared between the years 2002 and 2022 by using scatter plots.
