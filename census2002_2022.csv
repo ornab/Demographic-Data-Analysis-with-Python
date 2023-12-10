@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ,Country.Area.Name,Subregion,Region,Year,Life.Expectancy.at.Birth..Both.Sexes,Life.Expectancy.at.Birth..Males,Life.Expectancy.at.Birth..Females,Under.Age.5.Mortality..Both.Sexes,Under.Age.5.Mortality..Males,Under.Age.5.Mortality..Females
 1,Afghanistan,South-Central Asia,Asia,2002,46.1,45.11,47.15,213.89,220.44,207
 2,Afghanistan,South-Central Asia,Asia,2022,53.65,52.1,55.28,154.13,161.78,146.09
@@ -453,3 +454,460 @@
 452,Zambia,Eastern Africa,Africa,2022,66.26,64.52,68.06,53.35,57.61,48.96
 453,Zimbabwe,Eastern Africa,Africa,2002,44.58,44.19,44.99,111.55,118.67,104.2
 454,Zimbabwe,Eastern Africa,Africa,2022,63.32,61.18,65.52,44.13,48.9,39.2
+=======
+,Country.Area.Name,Subregion,Region,Year,Life.Expectancy.at.Birth..Both.Sexes,Life.Expectancy.at.Birth..Males,Life.Expectancy.at.Birth..Females,Under.Age.5.Mortality..Both.Sexes,Under.Age.5.Mortality..Males,Under.Age.5.Mortality..Females
+1,Afghanistan,South-Central Asia,Asia,2002,46.1,45.11,47.15,213.89,220.44,207
+2,Afghanistan,South-Central Asia,Asia,2022,53.65,52.1,55.28,154.13,161.78,146.09
+3,Albania,Southern Europe,Europe,2002,75.44,72.79,78.43,24.09,25.41,22.61
+4,Albania,Southern Europe,Europe,2022,79.47,76.8,82.33,12.66,13.71,11.53
+5,Algeria,Northern Africa,Africa,2002,72.99,72.06,73.97,40.53,42.87,38.08
+6,Algeria,Northern Africa,Africa,2022,78.03,76.57,79.57,22.85,24.4,21.21
+7,American Samoa,Polynesia,Oceania,2002,69.92,68.38,71.55,18.69,20.57,16.68
+8,American Samoa,Polynesia,Oceania,2022,75.32,72.83,77.97,12.69,14.8,10.45
+9,Andorra,Southern Europe,Europe,2002,82.36,80.4,84.35,4.78,4.47,5.09
+10,Andorra,Southern Europe,Europe,2022,83.42,81.2,85.79,4.13,4.22,4.03
+11,Angola,Middle Africa,Africa,2002,53.27,51.34,55.26,196.3,205.73,186.6
+12,Angola,Middle Africa,Africa,2022,62.11,60.05,64.24,89.96,96.08,83.67
+13,Anguilla,Caribbean,Americas,2002,79.14,76.94,81.41,5.69,7.51,3.84
+14,Anguilla,Caribbean,Americas,2022,82.2,79.59,84.89,4.45,5.92,2.94
+15,Antigua and Barbuda,Caribbean,Americas,2002,74.23,72.56,75.98,24.42,28.33,20.32
+16,Antigua and Barbuda,Caribbean,Americas,2022,77.8,75.63,80.08,17.25,20.7,13.62
+17,Argentina,South America,Americas,2002,75.23,72.16,78.49,18.61,20.65,16.43
+18,Argentina,South America,Americas,2022,78.31,75.23,81.59,11,12.17,9.74
+19,Armenia,Western Asia,Asia,2002,71.75,68.8,75.24,19.83,21,18.44
+20,Armenia,Western Asia,Asia,2022,76.13,72.86,79.68,13.79,15.29,12.16
+21,Aruba,Caribbean,Americas,2002,73.37,70.34,76.46,21.72,29.45,13.84
+22,Aruba,Caribbean,Americas,2022,78.01,74.93,81.15,14.02,19.2,8.74
+23,Australia,Australia/New Zealand,Oceania,2002,79.7,77.25,82.27,6.11,6.74,5.44
+24,Australia,Australia/New Zealand,Oceania,2022,83.09,80.93,85.36,3.63,3.93,3.3
+25,Austria,Western Europe,Europe,2002,78.88,76.1,81.79,4.92,5.74,4.04
+26,Austria,Western Europe,Europe,2022,82.27,79.64,85.04,3.86,4.37,3.33
+27,Azerbaijan,Western Asia,Asia,2002,68.22,65.32,71.61,58.34,60.31,56.04
+28,Azerbaijan,Western Asia,Asia,2022,74.15,71.08,77.41,26.12,27.48,24.68
+29,"Bahamas, The",Caribbean,Americas,2002,71.77,68.44,75.19,21.19,21.63,20.74
+30,"Bahamas, The",Caribbean,Americas,2022,76.13,73.2,79.14,15.25,15.68,14.81
+31,Bahrain,Western Asia,Asia,2002,75.44,73.5,77.43,18.78,21.52,15.96
+32,Bahrain,Western Asia,Asia,2022,79.9,77.63,82.24,12.12,14.13,10.06
+33,Bangladesh,South-Central Asia,Asia,2002,68.18,66.49,69.94,76.11,78.24,73.9
+34,Bangladesh,South-Central Asia,Asia,2022,74.7,72.52,76.96,37.4,40.21,34.47
+35,Barbados,Caribbean,Americas,2002,74.69,72.06,77.36,17.04,19.03,15.01
+36,Barbados,Caribbean,Americas,2022,78.55,75.79,81.35,12.12,13.9,10.32
+37,Belarus,Eastern Europe,Europe,2002,68.23,62.37,74.43,10.81,12.19,9.35
+38,Belarus,Eastern Europe,Europe,2022,74.28,68.9,79.97,5.18,6,4.3
+39,Belgium,Western Europe,Europe,2002,78.12,75.14,81.26,5.47,6.24,4.64
+40,Belgium,Western Europe,Europe,2022,81.86,79.25,84.59,3.91,4.5,3.3
+41,Belize,Central America,Americas,2002,72.46,70.86,74.15,23,25.47,20.4
+42,Belize,Central America,Americas,2022,75.82,74.23,77.5,12.94,14.3,11.51
+43,Benin,Western Africa,Africa,2002,54.51,53.03,56.06,135.15,141.07,128.94
+44,Benin,Western Africa,Africa,2022,62.21,60.39,64.14,84.34,89.77,78.64
+45,Bermuda,Northern America,Americas,2002,79.43,76.04,83,3.3,3.64,2.94
+46,Bermuda,Northern America,Americas,2022,82.04,78.96,85.28,2.91,3.23,2.57
+47,Bhutan,South-Central Asia,Asia,2002,62.65,61.91,63.42,90.6,93.67,87.36
+48,Bhutan,South-Central Asia,Asia,2022,72.31,71.19,73.49,34.74,35.01,34.47
+49,Bolivia,South America,Americas,2002,65.59,63.37,67.92,65.65,69.29,61.82
+50,Bolivia,South America,Americas,2022,72.5,71.04,74.02,27.71,29.99,25.31
+51,Bosnia and Herzegovina,Southern Europe,Europe,2002,73.88,70.6,77.36,10.09,11.54,8.56
+52,Bosnia and Herzegovina,Southern Europe,Europe,2022,77.98,75.02,81.15,5.93,6.17,5.67
+53,Botswana,Southern Africa,Africa,2002,50.57,49.56,51.61,75.55,79.64,71.32
+54,Botswana,Southern Africa,Africa,2022,65.64,63.6,67.74,32.25,35.16,29.25
+55,Brazil,South America,Americas,2002,70.04,66.47,73.79,34.24,38.84,29.4
+56,Brazil,South America,Americas,2022,75.92,72.5,79.5,16.77,18.81,14.63
+57,Brunei,South-Eastern Asia,Asia,2002,74.06,72.21,76,18.12,21.21,14.87
+58,Brunei,South-Eastern Asia,Asia,2022,78.38,76.01,80.86,12.05,14.71,9.27
+59,Bulgaria,Eastern Europe,Europe,2002,71.65,68.5,75.05,18.77,20.32,17.1
+60,Bulgaria,Eastern Europe,Europe,2022,75.57,72.36,78.97,9.35,10.62,8
+61,Burkina Faso,Western Africa,Africa,2002,53.48,52.34,54.65,159.7,165.72,153.5
+62,Burkina Faso,Western Africa,Africa,2022,63.44,61.63,65.31,81.39,86.14,76.5
+63,Burma,South-Eastern Asia,Asia,2002,61.55,59.45,63.78,84.96,94.15,75.22
+64,Burma,South-Eastern Asia,Asia,2022,69.92,68.27,71.67,41.11,44.24,37.8
+65,Burundi,Eastern Africa,Africa,2002,55.85,53.79,57.98,126.12,134.64,117.34
+66,Burundi,Eastern Africa,Africa,2022,67.42,65.32,69.59,53.9,59.31,48.33
+67,Cabo Verde,Western Africa,Africa,2002,67.87,65.89,69.92,46.44,52.45,40.26
+68,Cabo Verde,Western Africa,Africa,2022,73.75,71.41,76.15,28.74,33.47,23.87
+69,Cambodia,South-Eastern Asia,Asia,2002,58.7,56.56,60.93,110.62,120.62,100.18
+70,Cambodia,South-Eastern Asia,Asia,2022,70.65,68.79,72.59,39.54,44.02,34.85
+71,Cameroon,Middle Africa,Africa,2002,52.56,51.43,53.72,141.52,149.21,133.59
+72,Cameroon,Middle Africa,Africa,2022,63.27,61.49,65.09,73.06,78.59,67.35
+73,Canada,Northern America,Americas,2002,80.27,77.84,82.83,6.25,6.72,5.75
+74,Canada,Northern America,Americas,2022,83.8,81.52,86.21,5.07,5.45,4.66
+75,Cayman Islands,Caribbean,Americas,2002,78.6,76.14,81.1,12.82,14.9,10.71
+76,Cayman Islands,Caribbean,Americas,2022,82.04,79.35,84.79,8.9,10.72,7.05
+77,Central African Republic,Middle Africa,Africa,2002,47.06,45.97,48.18,168.26,175.03,161.27
+78,Central African Republic,Middle Africa,Africa,2022,55.52,54.19,56.88,124.58,129.08,119.95
+79,Chad,Middle Africa,Africa,2002,50.46,49.03,51.95,176.77,184.21,169.03
+80,Chad,Middle Africa,Africa,2022,59.15,57.32,61.06,108.3,114.55,101.8
+81,Chile,South America,Americas,2002,76.48,73.39,79.71,9.85,10.96,8.7
+82,Chile,South America,Americas,2022,79.79,76.8,82.92,7.61,8.32,6.86
+83,China,Eastern Asia,Asia,2002,72.5,70.1,75.32,27.81,29.46,25.88
+84,China,Eastern Asia,Asia,2022,77.72,75,80.7,7.89,8.38,7.37
+85,Colombia,South America,Americas,2002,72.45,68.93,76.13,23.62,26.2,20.91
+86,Colombia,South America,Americas,2022,74.89,71.27,78.69,13.79,15.44,12.05
+87,Comoros,Eastern Africa,Africa,2002,60.54,58.91,62.21,117.94,130.97,104.52
+88,Comoros,Eastern Africa,Africa,2022,67.2,64.93,69.54,78.54,90.98,65.72
+89,Congo (Brazzaville),Middle Africa,Africa,2002,53.89,52.95,54.85,114.8,120.78,108.65
+90,Congo (Brazzaville),Middle Africa,Africa,2022,62.1,60.65,63.61,71.12,76.13,65.96
+91,Congo (Kinshasa),Middle Africa,Africa,2002,52.59,51.4,53.82,146.47,155.56,137.11
+92,Congo (Kinshasa),Middle Africa,Africa,2022,61.83,60.03,63.69,81.09,87.58,74.39
+93,Cook Islands,Polynesia,Oceania,2002,72.43,69.74,75.26,29.64,36.39,22.58
+94,Cook Islands,Polynesia,Oceania,2022,77.14,74.32,80.11,19.13,23.97,14.02
+95,Costa Rica,Central America,Americas,2002,76.23,73.65,78.94,13.76,15.25,12.19
+96,Costa Rica,Central America,Americas,2022,79.64,76.99,82.43,9.61,10.74,8.42
+97,Croatia,Southern Europe,Europe,2002,74.64,70.95,78.53,8.13,9.03,7.17
+98,Croatia,Southern Europe,Europe,2022,77.22,74.1,80.53,10.53,10.2,10.9
+99,Cuba,Caribbean,Americas,2002,77.54,75.33,79.88,8.12,9.39,6.76
+100,Cuba,Caribbean,Americas,2022,79.64,77.29,82.14,5.19,5.87,4.45
+101,Curaçao,Caribbean,Americas,2002,76.2,74.1,78.41,11.89,12.6,11.15
+102,Curaçao,Caribbean,Americas,2022,79.42,77.09,81.87,8.84,9.65,7.99
+103,Cyprus,Western Asia,Asia,2002,75.9,73.29,78.63,13.91,16.27,11.42
+104,Cyprus,Western Asia,Asia,2022,79.74,76.93,82.68,9.58,11.62,7.44
+105,Czechia,Eastern Europe,Europe,2002,75.38,72.15,78.8,5.29,5.85,4.69
+106,Czechia,Eastern Europe,Europe,2022,79.73,76.8,82.82,2.97,3.2,2.72
+107,Côte d'Ivoire,Western Africa,Africa,2002,51.17,49.37,53.02,137.61,149.63,125.24
+108,Côte d'Ivoire,Western Africa,Africa,2022,62.26,60.07,64.52,76.18,84.78,67.33
+109,Denmark,Northern Europe,Europe,2002,77,74.8,79.33,5.39,5.74,5.03
+110,Denmark,Northern Europe,Europe,2022,81.66,79.74,83.71,3.58,4.14,2.99
+111,Djibouti,Eastern Africa,Africa,2002,58.33,56.08,60.65,95.25,106.07,84.09
+112,Djibouti,Eastern Africa,Africa,2022,65.3,62.72,67.96,63.09,71.8,54.12
+113,Dominica,Caribbean,Americas,2002,75.72,72.99,78.6,16.41,22.03,10.51
+114,Dominica,Caribbean,Americas,2022,78.21,75.25,81.31,12.98,17.7,8.04
+115,Dominican Republic,Caribbean,Americas,2002,67.77,66.12,69.48,40.27,43.82,36.56
+116,Dominican Republic,Caribbean,Americas,2022,72.56,70.86,74.33,25.45,28.16,22.63
+117,Ecuador,South America,Americas,2002,73.63,70.75,76.65,31.46,35.96,26.74
+118,Ecuador,South America,Americas,2022,78,75.06,81.1,21.56,25.6,17.32
+119,Egypt,Northern Africa,Africa,2002,68.4,67.18,69.69,42.31,43.93,40.59
+120,Egypt,Northern Africa,Africa,2022,74.45,73.26,75.72,20.83,21.75,19.84
+121,El Salvador,Central America,Americas,2002,69.52,65.86,73.37,30.28,33.07,27.33
+122,El Salvador,Central America,Americas,2022,75.37,71.88,79.04,14.02,15.89,12.05
+123,Equatorial Guinea,Middle Africa,Africa,2002,58.13,56.1,60.23,146.87,154.97,138.55
+124,Equatorial Guinea,Middle Africa,Africa,2022,63.7,61.44,66.03,106.43,113.76,98.87
+125,Eritrea,Eastern Africa,Africa,2002,60.21,57.95,62.54,94.07,103.66,84.21
+126,Eritrea,Eastern Africa,Africa,2022,66.85,64.25,69.53,59.75,69.55,49.67
+127,Estonia,Northern Europe,Europe,2002,70.74,64.98,76.72,10.52,12.71,8.24
+128,Estonia,Northern Europe,Europe,2022,77.88,73.25,82.73,4.08,4.07,4.09
+129,Eswatini,Southern Africa,Africa,2002,47.26,45.72,48.85,113.02,119.38,106.48
+130,Eswatini,Southern Africa,Africa,2022,59.69,57.62,61.81,50.7,55.19,46.08
+131,Ethiopia,Eastern Africa,Africa,2002,54.56,53.08,56.08,128.9,138.89,118.6
+132,Ethiopia,Eastern Africa,Africa,2022,68.25,66.12,70.44,46.83,52.43,41.07
+133,Faroe Islands,Northern Europe,Europe,2002,78.81,76.56,81.18,9.54,10.54,8.52
+134,Faroe Islands,Northern Europe,Europe,2022,81.26,78.73,83.97,7.5,8.58,6.33
+135,Fiji,Melanesia,Oceania,2002,68.48,66.06,71.03,28,31.74,24.1
+136,Fiji,Melanesia,Oceania,2022,74.27,71.6,77.07,16.85,19.52,14.05
+137,Finland,Northern Europe,Europe,2002,78.1,74.84,81.55,3.65,3.99,3.29
+138,Finland,Northern Europe,Europe,2022,81.76,78.86,84.79,2.56,2.74,2.38
+139,France,Western Europe,Europe,2002,79.44,75.95,83.11,5.56,6.14,4.96
+140,France,Western Europe,Europe,2022,82.59,79.53,85.79,4.15,4.62,3.64
+141,French Polynesia,Polynesia,Oceania,2002,73.24,71.24,75.34,20.13,23.59,16.48
+142,French Polynesia,Polynesia,Oceania,2022,78.43,76.11,80.86,12.37,15.02,9.6
+143,Gabon,Middle Africa,Africa,2002,59.03,58.36,59.73,89.75,96.2,83.1
+144,Gabon,Middle Africa,Africa,2022,69.7,67.98,71.48,41.73,45.29,38.07
+145,"Gambia, The",Western Africa,Africa,2002,60.09,58.32,61.92,105.64,111.86,99.24
+146,"Gambia, The",Western Africa,Africa,2022,67.6,65.83,69.41,58.96,62.68,55.13
+147,Gaza Strip,Western Asia,Asia,2002,71.06,69.73,72.47,29.93,31.34,28.44
+148,Gaza Strip,Western Asia,Asia,2022,75.4,73.65,77.25,17.97,19.18,16.68
+149,Georgia,Western Asia,Asia,2002,72.45,69.2,76.22,28.39,31.39,24.92
+150,Georgia,Western Asia,Asia,2022,77.5,73.45,81.74,16.21,18.64,13.65
+151,Germany,Western Europe,Europe,2002,78.37,75.64,81.25,5.18,5.57,4.76
+152,Germany,Western Europe,Europe,2022,81.51,79.15,84,3.88,4.26,3.47
+153,Ghana,Western Africa,Africa,2002,60.01,58.41,61.67,92.17,99.32,84.81
+154,Ghana,Western Africa,Africa,2022,69.37,67.7,71.09,45.08,49.34,40.7
+155,Gibraltar,Southern Europe,Europe,2002,75.99,75.17,76.85,10.91,10.27,11.58
+156,Gibraltar,Southern Europe,Europe,2022,80.42,77.58,83.41,7.33,8.26,6.36
+157,Greece,Southern Europe,Europe,2002,78.83,76.25,81.59,5.97,6.77,5.1
+158,Greece,Southern Europe,Europe,2022,81.49,78.96,84.2,4.13,4.56,3.67
+159,Greenland,Northern America,Americas,2002,68.31,65.2,71.51,15.56,24.85,5.99
+160,Greenland,Northern America,Americas,2022,73.98,71.28,76.82,11.03,12.94,9.01
+161,Grenada,Caribbean,Americas,2002,69.22,66.72,71.86,23.59,22.85,24.37
+162,Grenada,Caribbean,Americas,2022,75.74,73.13,78.6,12.95,13.22,12.66
+163,Guam,Micronesia,Oceania,2002,76.69,74.35,79.24,8.4,8.41,8.38
+164,Guam,Micronesia,Oceania,2022,77.5,75.07,80.08,12.74,12.84,12.67
+165,Guatemala,Central America,Americas,2002,67.34,65.75,69.02,52.96,56.52,49.22
+166,Guatemala,Central America,Americas,2022,72.91,70.88,75.04,33.92,37.39,30.29
+167,Guernsey,Northern Europe,Europe,2002,79.71,77.57,82.03,5.38,5.83,4.88
+168,Guernsey,Northern Europe,Europe,2022,83.23,80.52,86.07,3.89,4.46,3.28
+169,Guinea,Western Africa,Africa,2002,51.97,50.54,53.44,153.68,161,146.14
+170,Guinea,Western Africa,Africa,2022,63.9,62.04,65.82,73.93,79,68.73
+171,Guinea-Bissau,Western Africa,Africa,2002,51.06,49.08,53.09,161.53,174.06,148.61
+172,Guinea-Bissau,Western Africa,Africa,2022,63.68,61.45,65.99,72.65,79.88,65.2
+173,Guyana,South America,Americas,2002,67.88,66,69.86,44.52,49.82,38.96
+174,Guyana,South America,Americas,2022,71.87,70.03,73.8,26.37,29.75,22.81
+175,Haiti,Caribbean,Americas,2002,57.24,56.16,58.32,100.71,105.99,95.37
+176,Haiti,Caribbean,Americas,2022,65.95,63.26,68.67,54.84,63.53,46.05
+177,Honduras,Central America,Americas,2002,68.51,64.64,72.49,33.84,37.19,30.37
+178,Honduras,Central America,Americas,2022,75.17,71.63,78.82,16.95,19.3,14.53
+179,Hong Kong,Eastern Asia,Asia,2002,81.25,78.6,84.15,3.78,3.97,3.59
+180,Hong Kong,Eastern Asia,Asia,2022,83.61,80.91,86.46,3.43,3.55,3.31
+181,Hungary,Eastern Europe,Europe,2002,72.31,68.25,76.59,8.56,8.82,8.3
+182,Hungary,Eastern Europe,Europe,2022,77.2,73.55,81.06,5.47,5.87,5.04
+183,Iceland,Northern Europe,Europe,2002,80.35,78.4,82.38,5.27,6.02,4.46
+184,Iceland,Northern Europe,Europe,2022,83.64,81.41,85.97,2.55,2.91,2.17
+185,India,South-Central Asia,Asia,2002,63.78,62.45,65.27,83.59,79.5,88
+186,India,South-Central Asia,Asia,2022,67.22,65.46,69.16,34.13,33.5,34.82
+187,Indonesia,South-Eastern Asia,Asia,2002,68.61,66.22,71.11,49.13,55.46,42.48
+188,Indonesia,South-Eastern Asia,Asia,2022,73.08,70.86,75.4,23.55,26.27,20.68
+189,Iran,South-Central Asia,Asia,2002,68.73,67.44,70.09,68.62,67.17,70.13
+190,Iran,South-Central Asia,Asia,2022,75.25,73.89,76.67,17.15,18.29,15.94
+191,Iraq,Western Asia,Asia,2002,68.13,66.51,69.83,43.67,47.59,39.55
+192,Iraq,Western Asia,Asia,2022,73.18,71.3,75.15,23.49,25.37,21.53
+193,Ireland,Northern Europe,Europe,2002,77.55,74.97,80.26,6.2,6.6,5.77
+194,Ireland,Northern Europe,Europe,2022,81.66,79.35,84.1,4.05,4.57,3.49
+195,Isle of Man,Northern Europe,Europe,2002,77.78,75.53,80.35,7.29,8.1,6.36
+196,Isle of Man,Northern Europe,Europe,2022,82.04,80.23,84,4.99,5.4,4.53
+197,Israel,Western Asia,Asia,2002,79.01,76.9,81.22,6.36,6.76,5.93
+198,Israel,Western Asia,Asia,2022,83.35,81.45,85.34,4.33,4.64,3.99
+199,Italy,Southern Europe,Europe,2002,80.36,77.59,83.29,4.81,5.26,4.34
+200,Italy,Southern Europe,Europe,2022,82.59,80.25,85.08,3.74,3.93,3.54
+201,Jamaica,Caribbean,Americas,2002,71.05,69.22,72.97,23.93,26.7,21.01
+202,Jamaica,Caribbean,Americas,2022,75.75,73.98,77.6,12.96,14.39,11.45
+203,Japan,Eastern Asia,Asia,2002,81.53,78.18,85.07,4.2,4.52,3.86
+204,Japan,Eastern Asia,Asia,2022,84.83,81.92,87.9,2.54,2.67,2.4
+205,Jersey,Northern Europe,Europe,2002,78.04,75.85,80.37,6.79,7.21,6.35
+206,Jersey,Northern Europe,Europe,2022,82.63,80.13,85.28,4.52,5.01,4
+207,Jordan,Western Asia,Asia,2002,70.78,69.55,72.08,32.36,33.76,30.88
+208,Jordan,Western Asia,Asia,2022,76.01,74.51,77.6,16.07,17.22,14.85
+209,Kazakhstan,South-Central Asia,Asia,2002,64.77,59.55,70.31,40.68,46.32,34.72
+210,Kazakhstan,South-Central Asia,Asia,2022,72.53,67.43,77.31,21.63,24.51,18.94
+211,Kenya,Eastern Africa,Africa,2002,55.03,54.86,55.21,94.95,100.56,89.24
+212,Kenya,Eastern Africa,Africa,2022,69.69,67.98,71.43,38.15,41.84,34.38
+213,Kiribati,Micronesia,Oceania,2002,61.02,58.86,63.29,67.43,69.06,65.73
+214,Kiribati,Micronesia,Oceania,2022,67.9,65.3,70.64,42.58,44.83,40.2
+215,"Korea, North",Eastern Asia,Asia,2002,63.65,59.03,68.48,58.2,68.13,47.81
+216,"Korea, North",Eastern Asia,Asia,2022,71.77,67.88,75.88,27.57,30.89,24.07
+217,"Korea, South",Eastern Asia,Asia,2002,76.8,73.54,80.39,6.6,7.04,6.11
+218,"Korea, South",Eastern Asia,Asia,2022,82.97,79.88,86.24,3.46,3.69,3.21
+219,Kosovo,Southern Europe,Europe,2002,67.9,65.69,70.3,66.23,70.2,61.95
+220,Kosovo,Southern Europe,Europe,2022,71.12,68.83,73.58,34.25,36.73,31.58
+221,Kuwait,Western Asia,Asia,2002,75.1,73.82,76.43,13.24,13.65,12.81
+222,Kuwait,Western Asia,Asia,2022,79.13,77.67,80.65,9.12,9.45,8.77
+223,Kyrgyzstan,South-Central Asia,Asia,2002,66.83,62.51,71.31,48.78,56.5,40.73
+224,Kyrgyzstan,South-Central Asia,Asia,2022,72.35,68.27,76.71,28.94,33.36,24.24
+225,Laos,South-Eastern Asia,Asia,2002,57.62,55.87,59.44,111.98,120.34,103.35
+226,Laos,South-Eastern Asia,Asia,2022,68.15,66.49,69.88,47.38,51.64,42.94
+227,Latvia,Northern Europe,Europe,2002,70.45,66.09,75.03,14.41,15.99,12.76
+228,Latvia,Northern Europe,Europe,2022,75.91,71.47,80.56,6.05,6.67,5.42
+229,Lebanon,Western Asia,Asia,2002,74.11,72.93,75.35,17.37,18.22,16.48
+230,Lebanon,Western Asia,Asia,2022,78.76,77.36,80.23,7.75,8.32,7.15
+231,Lesotho,Southern Africa,Africa,2002,49.41,48.34,50.51,113.34,122.11,104.31
+232,Lesotho,Southern Africa,Africa,2022,59.57,57.57,61.64,63.57,70.16,56.79
+233,Liberia,Western Africa,Africa,2002,54.91,53.08,56.8,158.63,166.86,150.15
+234,Liberia,Western Africa,Africa,2022,65.45,63.19,67.78,59.16,63.97,54.21
+235,Libya,Northern Africa,Africa,2002,NA,NA,NA,NA,NA,NA
+236,Libya,Northern Africa,Africa,2022,77.18,74.94,79.53,12.95,14.43,11.38
+237,Liechtenstein,Western Europe,Europe,2002,79.23,76.48,82.18,6.65,7.23,6.03
+238,Liechtenstein,Western Europe,Europe,2022,82.56,80.33,85.38,4.86,5.24,4.37
+239,Lithuania,Northern Europe,Europe,2002,71.46,65.71,77.52,10.12,12.25,7.87
+240,Lithuania,Northern Europe,Europe,2022,75.78,70.42,81.44,4.32,4.91,3.7
+241,Luxembourg,Western Europe,Europe,2002,78.48,75.07,82.07,6.56,7.78,5.25
+242,Luxembourg,Western Europe,Europe,2022,82.98,80.52,85.58,3.71,4.24,3.15
+243,Macau,Eastern Asia,Asia,2002,83.25,80.2,86.44,6.38,6.53,6.23
+244,Macau,Eastern Asia,Asia,2022,84.98,82.09,88.02,5.28,5.41,5.15
+245,Madagascar,Eastern Africa,Africa,2002,60.91,59.98,61.87,91.88,96.16,87.48
+246,Madagascar,Eastern Africa,Africa,2022,68.17,66.8,69.57,55.88,60.69,50.93
+247,Malawi,Eastern Africa,Africa,2002,60.08,57.15,63.05,131.7,148.9,114.28
+248,Malawi,Eastern Africa,Africa,2022,72.44,69.33,75.59,55.49,68.76,42.02
+249,Malaysia,South-Eastern Asia,Asia,2002,73.88,71.92,75.97,8.4,8.97,7.8
+250,Malaysia,South-Eastern Asia,Asia,2022,76.13,74.5,77.87,8.05,8.54,7.53
+251,Maldives,South-Central Asia,Asia,2002,72.15,70.1,74.31,53.58,58.16,48.78
+252,Maldives,South-Central Asia,Asia,2022,76.94,74.57,79.42,33.17,37.51,28.61
+253,Mali,Western Africa,Africa,2002,52.44,50.78,54.14,199.63,207.62,191.38
+254,Mali,Western Africa,Africa,2022,62.41,60.19,64.7,94.96,101.28,88.45
+255,Malta,Southern Europe,Europe,2002,79.07,76.67,81.59,6.72,7.66,5.68
+256,Malta,Southern Europe,Europe,2022,83.2,81.11,85.38,5.73,6.27,5.14
+257,Marshall Islands,Micronesia,Oceania,2002,68.95,67.05,70.94,42.75,47.73,37.5
+258,Marshall Islands,Micronesia,Oceania,2022,74.65,72.4,77.01,26.37,30.37,22.18
+259,Mauritania,Western Africa,Africa,2002,57.62,55.65,59.64,119.93,128.89,110.71
+260,Mauritania,Western Africa,Africa,2022,65.22,62.77,67.75,78.01,86.52,69.24
+261,Mauritius,Eastern Africa,Africa,2002,71.85,68.44,75.35,17.98,20.58,15.3
+262,Mauritius,Eastern Africa,Africa,2022,74.86,72.04,77.88,14.3,15.97,12.53
+263,Mexico,Central America,Americas,2002,73.48,71.01,76.08,26,28.18,23.72
+264,Mexico,Central America,Americas,2022,72.32,68.93,75.88,13.59,14.96,12.16
+265,"Micronesia, Federated States of",Micronesia,Oceania,2002,68.71,66.99,70.52,43.26,47.36,38.94
+266,"Micronesia, Federated States of",Micronesia,Oceania,2022,74.44,72.34,76.66,26.71,30.18,23.07
+267,Moldova,Eastern Europe,Europe,2002,67.61,64.02,71.48,21.41,23.99,18.65
+268,Moldova,Eastern Europe,Europe,2022,72.44,68.6,76.52,13.36,15.48,11.12
+269,Monaco,Western Europe,Europe,2002,88.09,85.09,91.47,2.26,2.47,2.03
+270,Monaco,Western Europe,Europe,2022,89.52,85.7,93.49,1.98,2.31,1.64
+271,Mongolia,Eastern Asia,Asia,2002,65.04,61.71,68.54,54.7,59.55,49.61
+272,Mongolia,Eastern Asia,Asia,2022,71.37,67.19,75.76,24.22,27.86,20.4
+273,Montenegro,Southern Europe,Europe,2002,74.45,71.83,77.34,11.31,11.67,10.92
+274,Montenegro,Southern Europe,Europe,2022,77.75,75.32,80.27,3.62,3.2,4.06
+275,Montserrat,Caribbean,Americas,2002,72.98,74.98,70.84,18.07,13.36,23.14
+276,Montserrat,Caribbean,Americas,2022,75.7,76.66,74.7,11.77,9.49,14.16
+277,Morocco,Northern Africa,Africa,2002,67.24,65.66,68.9,49.67,53.59,45.57
+278,Morocco,Northern Africa,Africa,2022,73.68,71.98,75.46,22.91,25.46,20.23
+279,Mozambique,Eastern Africa,Africa,2002,44.92,44.26,45.6,197.62,197.3,197.95
+280,Mozambique,Eastern Africa,Africa,2022,57.1,55.76,58.49,94.13,94.86,93.37
+281,Namibia,Southern Africa,Africa,2002,53.07,52.93,53.22,94.7,99.11,90.17
+282,Namibia,Southern Africa,Africa,2022,66.47,64.46,68.53,43.11,46.8,39.32
+283,Nauru,Micronesia,Oceania,2002,61.64,57.84,64.81,14.2,19.27,9.97
+284,Nauru,Micronesia,Oceania,2022,67.93,64.38,71.62,10.41,13.68,7.03
+285,Nepal,South-Central Asia,Asia,2002,63.1,62.21,64.03,75,75.6,74.4
+286,Nepal,South-Central Asia,Asia,2022,72.4,71.66,73.17,31.08,32.9,29.16
+287,Netherlands,Western Europe,Europe,2002,78.29,76,80.7,6.07,6.67,5.45
+288,Netherlands,Western Europe,Europe,2022,82.16,79.93,84.49,4.04,4.47,3.58
+289,New Caledonia,Melanesia,Oceania,2002,74.35,70.41,78.48,13.14,17.9,8.15
+290,New Caledonia,Melanesia,Oceania,2022,78.83,74.93,82.92,8.93,11.7,6.02
+291,New Zealand,Australia/New Zealand,Oceania,2002,78.8,76.7,80.98,6.87,7.08,6.63
+292,New Zealand,Australia/New Zealand,Oceania,2022,82.54,80.78,84.39,4.14,4.45,3.82
+293,Nicaragua,Central America,Americas,2002,69.28,67.47,71.18,38.35,42.55,33.95
+294,Nicaragua,Central America,Americas,2022,74.78,72.56,77.11,22.88,26.5,19.08
+295,Niger,Western Africa,Africa,2002,47.43,46.54,48.36,200.61,204.81,196.28
+296,Niger,Western Africa,Africa,2022,60.09,58.55,61.68,104.72,109.77,99.52
+297,Nigeria,Western Africa,Africa,2002,49.03,47.67,50.47,174.3,182.3,165.83
+298,Nigeria,Western Africa,Africa,2022,61.33,59.51,63.27,86.02,91.8,79.9
+299,North Macedonia,Southern Europe,Europe,2002,73.02,70.6,75.6,12.63,12.35,12.91
+300,North Macedonia,Southern Europe,Europe,2022,76.84,74.73,79.08,8.36,9.24,7.42
+301,Northern Mariana Islands,Micronesia,Oceania,2002,73.81,71.89,76.06,18.45,22.11,14.18
+302,Northern Mariana Islands,Micronesia,Oceania,2022,76.58,74.48,79.03,14.27,17.32,10.71
+303,Norway,Northern Europe,Europe,2002,78.88,76.41,81.46,4.63,4.76,4.5
+304,Norway,Northern Europe,Europe,2022,82.55,80.42,84.79,2.84,3.2,2.46
+305,Oman,Western Asia,Asia,2002,72.04,70.22,73.96,30.15,30.86,29.4
+306,Oman,Western Asia,Asia,2022,76.9,74.96,78.93,19.15,20.23,18.01
+307,Pakistan,South-Central Asia,Asia,2002,62.56,60.99,64.21,113.98,116.99,110.81
+308,Pakistan,South-Central Asia,Asia,2022,69.67,67.62,71.82,68.9,73.66,63.89
+309,Palau,Micronesia,Oceania,2002,68.99,65.93,72.23,20.92,22.68,19.06
+310,Palau,Micronesia,Oceania,2022,74.64,71.48,78,13.63,15.59,11.55
+311,Panama,Central America,Americas,2002,75.96,73.27,78.78,20,21.94,17.95
+312,Panama,Central America,Americas,2022,77.62,74.76,80.66,21.26,23.13,19.27
+313,Papua New Guinea,Melanesia,Oceania,2002,64.27,62.89,65.72,67.69,71.25,63.95
+314,Papua New Guinea,Melanesia,Oceania,2022,69.43,67.76,71.19,41.59,45.01,38.02
+315,Paraguay,South America,Americas,2002,74.07,71.71,76.54,45.96,52.44,39.16
+316,Paraguay,South America,Americas,2022,78.37,75.72,81.15,29.58,35.25,23.62
+317,Peru,South America,Americas,2002,71.45,69.93,73.04,33.28,36.04,30.39
+318,Peru,South America,Americas,2022,68.94,65.38,72.67,13.92,15.19,12.57
+319,Philippines,South-Eastern Asia,Asia,2002,69.65,65.87,73.63,36.48,40.18,32.6
+320,Philippines,South-Eastern Asia,Asia,2022,70.14,66.6,73.86,28.55,31.35,25.61
+321,Poland,Eastern Europe,Europe,2002,74.58,70.71,78.68,8.81,9.53,8.04
+322,Poland,Eastern Europe,Europe,2022,78.76,75.02,82.73,4.87,5.37,4.33
+323,Portugal,Southern Europe,Europe,2002,76.88,73.58,80.44,6.57,7.1,6
+324,Portugal,Southern Europe,Europe,2022,81.5,78.37,84.79,3.07,3.51,2.61
+325,Puerto Rico,Caribbean,Americas,2002,NA,NA,NA,NA,NA,NA
+326,Puerto Rico,Caribbean,Americas,2022,81.68,78.47,85.08,6.56,7.29,5.78
+327,Qatar,Western Asia,Asia,2002,76,74.38,77.71,13.72,15.29,11.98
+328,Qatar,Western Asia,Asia,2022,79.81,77.7,81.96,9.33,10.8,7.78
+329,Romania,Eastern Europe,Europe,2002,71.09,67.55,74.84,20.16,22.24,17.98
+330,Romania,Eastern Europe,Europe,2022,75.75,72.3,79.4,6.89,7.13,6.62
+331,Russia,Eastern Europe,Europe,2002,65.81,59.6,72.38,16.66,18.89,14.29
+332,Russia,Eastern Europe,Europe,2022,72.44,66.92,78.3,8.09,9.17,6.93
+333,Rwanda,Eastern Africa,Africa,2002,53.37,51.82,54.97,149.35,157.56,140.89
+334,Rwanda,Eastern Africa,Africa,2022,65.85,63.89,67.86,34.82,37.75,31.8
+335,Saint Barthelemy,Caribbean,Americas,2002,77.2,74.1,80.42,11.12,12.5,9.68
+336,Saint Barthelemy,Caribbean,Americas,2022,80.58,77.48,83.81,8.27,9.56,6.93
+337,"Saint Helena, Ascension, and Tristan da Cunha",Western Africa,Africa,2002,77.05,74.13,80.12,33.93,39.83,27.74
+338,"Saint Helena, Ascension, and Tristan da Cunha",Western Africa,Africa,2022,80.48,77.58,83.51,22.14,26.61,17.43
+339,Saint Kitts and Nevis,Caribbean,Americas,2002,72.99,72.42,73.55,22.09,18.36,25.8
+340,Saint Kitts and Nevis,Caribbean,Americas,2022,77.08,74.63,79.58,15.08,14.7,15.47
+341,Saint Lucia,Caribbean,Americas,2002,75.23,73.07,77.51,18.12,15.14,21.26
+342,Saint Lucia,Caribbean,Americas,2022,78.95,76.21,81.84,13.27,12.26,14.32
+343,Saint Martin,Caribbean,Americas,2002,77.2,74.1,80.42,11.12,12.5,9.68
+344,Saint Martin,Caribbean,Americas,2022,80.58,77.48,83.81,8.27,9.56,6.93
+345,Saint Pierre and Miquelon,Northern America,Americas,2002,79.63,77.78,81.58,11.25,13.37,9.03
+346,Saint Pierre and Miquelon,Northern America,Americas,2022,81.41,79.05,83.9,9.41,11.65,7.05
+347,Saint Vincent and the Grenadines,Caribbean,Americas,2002,71.22,69.67,72.82,29.72,31.44,27.95
+348,Saint Vincent and the Grenadines,Caribbean,Americas,2022,76.68,74.63,78.79,18.31,20.19,16.38
+349,Samoa,Polynesia,Oceania,2002,69.83,67.08,72.73,38.81,45.52,31.75
+350,Samoa,Polynesia,Oceania,2022,75.19,72.28,78.25,22.6,27.23,17.74
+351,San Marino,Southern Europe,Europe,2002,81.22,77.94,85.45,9.6,11.88,6.67
+352,San Marino,Southern Europe,Europe,2022,83.86,81.3,86.65,7.06,8.35,5.66
+353,Sao Tome and Principe,Middle Africa,Africa,2002,59.68,58.77,60.62,103.98,105.13,102.81
+354,Sao Tome and Principe,Middle Africa,Africa,2022,67.06,65.44,68.72,66.6,69.91,63.2
+355,Saudi Arabia,Western Asia,Asia,2002,72.48,71.17,73.84,23.49,24.97,21.94
+356,Saudi Arabia,Western Asia,Asia,2022,76.65,75.07,78.32,14.04,15.33,12.68
+357,Senegal,Western Africa,Africa,2002,57.96,56.35,59.64,115.04,121.6,108.16
+358,Senegal,Western Africa,Africa,2022,69.96,68.23,71.77,45,48.97,40.82
+359,Serbia,Southern Europe,Europe,2002,72.37,69.68,75.22,11.58,13.23,9.84
+360,Serbia,Southern Europe,Europe,2022,74.17,71.5,77,5.52,6.18,4.83
+361,Seychelles,Eastern Africa,Africa,2002,69.84,64.96,74.88,29.49,36.29,22.47
+362,Seychelles,Eastern Africa,Africa,2022,76.1,71.67,80.66,15.31,18.99,11.51
+363,Sierra Leone,Western Africa,Africa,2002,44.71,43.54,45.92,217.81,226.88,208.47
+364,Sierra Leone,Western Africa,Africa,2022,58.76,57.16,60.41,98.56,104.06,92.89
+365,Singapore,South-Eastern Asia,Asia,2002,80.11,77.81,82.52,2.54,2.98,2.08
+366,Singapore,South-Eastern Asia,Asia,2022,86.35,83.65,89.2,1.94,2.03,1.85
+367,Sint Maarten,Caribbean,Americas,2002,74.83,72.7,77.07,13.46,14.25,12.64
+368,Sint Maarten,Caribbean,Americas,2022,79.26,76.91,81.73,8.96,9.78,8.09
+369,Slovakia,Eastern Europe,Europe,2002,73.65,69.72,77.77,9.4,10.75,8
+370,Slovakia,Eastern Europe,Europe,2022,78.31,74.83,82.04,5.78,6.53,4.98
+371,Slovenia,Southern Europe,Europe,2002,76.55,72.76,80.59,4.89,6.16,3.53
+372,Slovenia,Southern Europe,Europe,2022,81.82,78.96,84.79,1.99,2.29,1.68
+373,Solomon Islands,Melanesia,Oceania,2002,71.84,69.39,74.41,39.86,45.5,33.93
+374,Solomon Islands,Melanesia,Oceania,2022,76.7,74.05,79.49,25.5,29.93,20.85
+375,Somalia,Eastern Africa,Africa,2002,47.12,45.48,48.82,205.2,216.16,193.9
+376,Somalia,Eastern Africa,Africa,2022,55.72,53.39,58.12,141.2,153.23,128.81
+377,South Africa,Southern Africa,Africa,2002,56.98,56.3,57.67,68.96,74.57,63.24
+378,South Africa,Southern Africa,Africa,2022,65.32,63.99,66.68,31.61,35.07,28.09
+379,South Sudan,Northern Africa,Africa,2002,NA,NA,NA,NA,NA,NA
+380,South Sudan,Northern Africa,Africa,2022,59.16,57.43,60.97,98.26,104.67,91.52
+381,Spain,Southern Europe,Europe,2002,79.58,76.28,83.08,5.17,5.71,4.6
+382,Spain,Southern Europe,Europe,2022,82.55,79.84,85.4,2.96,3.23,2.67
+383,Sri Lanka,South-Central Asia,Asia,2002,73.55,69.61,77.65,14.6,16.13,13.02
+384,Sri Lanka,South-Central Asia,Asia,2022,78,74.57,81.56,9.87,10.92,8.78
+385,Sudan,Northern Africa,Africa,2002,NA,NA,NA,NA,NA,NA
+386,Sudan,Northern Africa,Africa,2022,67.12,64.89,69.46,62.12,69.27,54.61
+387,Suriname,South America,Americas,2002,69.2,67.1,71.44,48.23,55.3,40.68
+388,Suriname,South America,Americas,2022,72.42,68.81,76.27,39.14,49.28,28.31
+389,Sweden,Northern Europe,Europe,2002,79.98,77.88,82.31,4.06,4.46,3.64
+390,Sweden,Northern Europe,Europe,2022,82.7,80.94,84.58,2.75,3.04,2.43
+391,Switzerland,Western Europe,Europe,2002,80.38,77.77,83.15,5.67,6.24,5.07
+392,Switzerland,Western Europe,Europe,2022,83.23,80.91,85.67,4.28,4.74,3.78
+393,Syria,Western Asia,Asia,2002,NA,NA,NA,NA,NA,NA
+394,Syria,Western Asia,Asia,2022,74.28,72.82,75.84,18.24,20.02,16.36
+395,Taiwan,Eastern Asia,Asia,2002,77.28,74.58,80.24,7.24,7.46,7.01
+396,Taiwan,Eastern Asia,Asia,2022,81.16,78.17,84.34,4.73,5.07,4.36
+397,Tajikistan,South-Central Asia,Asia,2002,62.1,59.09,65.26,75.43,82.25,68.28
+398,Tajikistan,South-Central Asia,Asia,2022,69.36,66.2,72.69,45.02,50.54,39.21
+399,Tanzania,Eastern Africa,Africa,2002,55.31,54.37,56.28,109.36,114.22,104.34
+400,Tanzania,Eastern Africa,Africa,2022,70.19,68.42,72.02,43.2,46.35,39.96
+401,Thailand,South-Eastern Asia,Asia,2002,72.06,69,75.28,20.64,22.65,18.52
+402,Thailand,South-Eastern Asia,Asia,2022,77.66,74.65,80.83,8.7,9.64,7.7
+403,Timor-Leste,South-Eastern Asia,Asia,2002,60.79,59.37,62.31,91.29,96.23,86.03
+404,Timor-Leste,South-Eastern Asia,Asia,2022,69.92,68.25,71.7,42.71,45.84,39.37
+405,Togo,Western Africa,Africa,2002,61.56,59.4,63.77,113.07,121.26,104.64
+406,Togo,Western Africa,Africa,2022,71.36,68.76,74.03,59.59,65.19,53.83
+407,Tonga,Polynesia,Oceania,2002,73.78,72.59,75,20.69,21.22,20.14
+408,Tonga,Polynesia,Oceania,2022,77.53,75.89,79.23,14.42,15.4,13.43
+409,Trinidad and Tobago,Caribbean,Americas,2002,71.26,69.75,72.81,28.68,31.19,26.09
+410,Trinidad and Tobago,Caribbean,Americas,2022,75.94,74.02,77.93,18.64,20.98,16.22
+411,Tunisia,Northern Africa,Africa,2002,73.06,71.75,74.48,27.31,29.36,25.09
+412,Tunisia,Northern Africa,Africa,2022,76.82,75.14,78.6,13.54,15.11,11.86
+413,Turkey,Western Asia,Asia,2002,70.67,68.82,72.61,38,38.23,37.75
+414,Turkey,Western Asia,Asia,2022,76.21,73.84,78.7,22.21,23.61,20.74
+415,Turkmenistan,South-Central Asia,Asia,2002,65.48,62.66,68.45,74.59,85.99,62.62
+416,Turkmenistan,South-Central Asia,Asia,2022,71.83,68.8,75,45.75,54.65,36.41
+417,Turks and Caicos Islands,Caribbean,Americas,2002,78.81,76.01,81.75,16.52,20.52,12.32
+418,Turks and Caicos Islands,Caribbean,Americas,2022,80.82,78.07,83.71,14.02,17.55,10.33
+419,Tuvalu,Polynesia,Oceania,2002,61.58,59.67,63.58,76.48,73.78,79.32
+420,Tuvalu,Polynesia,Oceania,2022,68.38,65.96,70.92,47.29,47.67,46.88
+421,Uganda,Eastern Africa,Africa,2002,51.11,50.06,52.18,129.59,139.48,119.4
+422,Uganda,Eastern Africa,Africa,2022,68.96,66.71,71.27,42.01,46.69,37.17
+423,Ukraine,Eastern Europe,Europe,2002,68.07,62.56,73.93,13.9,16.15,11.51
+424,Ukraine,Eastern Europe,Europe,2022,73.45,68.8,78.39,8.78,9.89,7.58
+425,United Arab Emirates,Western Asia,Asia,2002,76.34,74.97,77.75,10.59,11.71,9.43
+426,United Arab Emirates,Western Asia,Asia,2022,79.56,78.21,80.99,5.56,6.16,4.91
+427,United Kingdom,Northern Europe,Europe,2002,78.11,75.84,80.5,6.25,7.05,5.39
+428,United Kingdom,Northern Europe,Europe,2022,81.94,79.95,84.04,4.35,4.79,3.9
+429,United States,Northern America,Americas,2002,NA,NA,NA,NA,NA,NA
+430,United States,Northern America,Americas,2022,80.59,78.36,82.79,6.27,6.75,5.77
+431,Uruguay,South America,Americas,2002,74.54,71.39,77.8,16.86,18.37,15.3
+432,Uruguay,South America,Americas,2022,78.43,75.32,81.64,10.55,11.71,9.34
+433,Uzbekistan,South-Central Asia,Asia,2002,69.95,67.35,72.72,35.86,39.81,31.66
+434,Uzbekistan,South-Central Asia,Asia,2022,75.29,72.27,78.5,23.09,27.23,18.69
+435,Vanuatu,Melanesia,Oceania,2002,68.28,66.95,69.67,37.64,39.19,36.01
+436,Vanuatu,Melanesia,Oceania,2022,75.14,73.45,76.91,16.77,18.45,15.01
+437,Venezuela,South America,Americas,2002,72.65,69.78,75.67,24.4,26.6,22.09
+438,Venezuela,South America,Americas,2022,73.29,70.12,76.62,21.21,23.2,19.12
+439,Vietnam,South-Eastern Asia,Asia,2002,71.75,69.17,74.46,31.88,31.76,32
+440,Vietnam,South-Eastern Asia,Asia,2022,75.52,72.95,78.37,19,19.17,18.81
+441,"Virgin Islands, British",Caribbean,Americas,2002,77.19,75.41,79.07,20.52,25.06,15.73
+442,"Virgin Islands, British",Caribbean,Americas,2022,79.67,78.17,81.25,15.32,18.13,12.36
+443,"Virgin Islands, U.S.",Caribbean,Americas,2002,77.54,74.44,80.82,10.63,11.98,9.19
+444,"Virgin Islands, U.S.",Caribbean,Americas,2022,80.27,77.08,83.65,8.51,9.93,7
+445,Wallis and Futuna,Polynesia,Oceania,2002,76.63,74.39,78.98,6,5.74,6.27
+446,Wallis and Futuna,Polynesia,Oceania,2022,80.67,77.68,83.81,4.46,4.39,4.52
+447,West Bank,Western Asia,Asia,2002,72.38,70.61,74.25,26.21,29.21,23.02
+448,West Bank,Western Asia,Asia,2022,76.38,74.29,78.6,18.11,20.79,15.28
+449,Yemen,Western Asia,Asia,2002,60.34,58.53,62.24,97.42,102.96,91.6
+450,Yemen,Western Asia,Asia,2022,67.51,65.19,69.94,61.91,67.62,55.93
+451,Zambia,Eastern Africa,Africa,2002,47.34,46.17,48.54,138.39,146.38,130.16
+452,Zambia,Eastern Africa,Africa,2022,66.26,64.52,68.06,53.35,57.61,48.96
+453,Zimbabwe,Eastern Africa,Africa,2002,44.58,44.19,44.99,111.55,118.67,104.2
+454,Zimbabwe,Eastern Africa,Africa,2022,63.32,61.18,65.52,44.13,48.9,39.2
+>>>>>>> 5efc297 (Initial Commit)
